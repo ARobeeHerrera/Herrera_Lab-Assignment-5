@@ -34,37 +34,38 @@ E370, Baldo, Jason, Team Leader
 E371, Hernandez, Timothy, Junior Accountant  
 E372, Cruz, Ricardo, CPA  
  
-You need to create objects that will handle the retrieval of the csv files to convert it into objects.  These are EmployeeDA and EmployeeDA objects.  This will be the execution of the sequence:
+You need to create objects that will handle the retrieval of the csv files to convert it into objects.  These are EmployeeDA and EmployeeDA objects.    
 
+This will be the execution of the sequence:
 ![image](https://github.com/ARobeeHerrera/Herrera_Lab-Assignment-5/assets/152839434/237c9164-f7b0-4196-adcd-e4ea4c08b5c6)
 
-This will be the sample generated report:
-Department code: IT
-Department name: Information Tech
-Department total salary: 126,000.00
----------------------Details -------------------------
-EmpNo		 Employee Name	Salary
-E123		Maxwell, John			30,000.00
-E125		Ortiz, Manuel			51,000.00
-E124		Delos Reyes, Ernesto		45,000.00
+This will be the sample generated report:  
+Department code: IT  
+Department name: Information Tech  
+Department total salary: 126,000.00  
+---------------------Details -------------------------  
+EmpNo		 Employee Name	Salary  
+E123		Maxwell, John			30,000.00  
+E125		Ortiz, Manuel			51,000.00  
+E124		Delos Reyes, Ernesto		45,000.00  
 
-Department code: HR
-Department name: Human Resource
-Department total salary: 91,000.00
----------------------Details -------------------------
-EmpNo		 Employee Name	Salary
-E252		Rosanto, Margareth		25,000.00
-E251		Natividad, Lisa		66,000.00
+Department code: HR  
+Department name: Human Resource  
+Department total salary: 91,000.00  
+---------------------Details -------------------------  
+EmpNo		 Employee Name	Salary  
+E252		Rosanto, Margareth		25,000.00  
+E251		Natividad, Lisa		66,000.00  
 
-Department code: FNC  
-Department name: Finance  
-Department total salary: 108,000.00  
----------------------Details -------------------------
-EmpNo		 Employee Name	Salary
-E370		Baldo, Jason			42,000.00
-E371		Hernandez, Timothy		29,000.00
-E372		Cruz, Ricardo			37,000.00
-
+Department code: FNC    
+Department name: Finance    
+Department total salary: 108,000.00    
+---------------------Details -------------------------  
+EmpNo		 Employee Name	Salary  
+E370		Baldo, Jason			42,000.00  
+E371		Hernandez, Timothy		29,000.00  
+E372		Cruz, Ricardo			37,000.00  
+  
 # INSTRUCTIONS:
 1. You are not allowed to alter the composition of the domain objects.  Stick to the design. Disregard the data in the csv if it is not necessary to the object.
 2. Adhere to correct naming conventions in naming variables and objects.
