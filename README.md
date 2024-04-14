@@ -5,12 +5,12 @@
 
 dep.csv contains the following
 
-deptCode, deptName, location
-IT, Information Tech, 2nd floor
-HR, Human Resource, 3rd floor
-FNC, Finance, 4th floor
+deptCode, deptName, location  
+IT, Information Tech, 2nd floor  
+HR, Human Resource, 3rd floor  
+FNC, Finance, 4th floor  
 
-The deptemp.csv is referenced to get the salary  of the employees per department:
+The deptemp.csv is referenced to get the salary  of the employees per department:  
 
 deptCode, empNo, salary  
 IT, E123, 30000  
